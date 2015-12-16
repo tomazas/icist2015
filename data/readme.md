@@ -2,6 +2,8 @@ Preprocessed BCI IV 2008 2a dataset
 --------------
 This directory contains pre-processed BCI IV 2008 2a dataset (more info in docs/desc_2a.pdf).
 
+NOTE: due to exhaustive use of Git LFS bandwidth, data.zip moved to: https://goo.gl/kDc26P
+
 The original *.gdf files found in BCI IV competition 2a dataset 
 were converted to MATLAB .mat format for easier handling/loading.
 File A0xT.gdf.mat corresponds to x-th analyzed subject.
