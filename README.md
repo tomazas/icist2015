@@ -1,3 +1,8 @@
+"Comparison of Feature Extraction Methods for EEG BCI Classification"  
+by Tomas Uktveris and Vacius Jusas
+
+DOI: https://doi.org/10.1007/978-3-319-24770-0_8
+
 Requirements:
 --------------
 * MATLAB
